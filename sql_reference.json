@@ -3,6 +3,9 @@
     "create": "CREATE DATABASE database_name;",
     "drop": "DROP DATABASE database_name;"
   },
+  "row": {
+    "insert": "INSERT INTO table_name(columns) VALUES(values);"
+  },
   "table": {
     "create": "CREATE TABLE table_name();",
     "drop": "DROP TABLE table_name;"
